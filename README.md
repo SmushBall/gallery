@@ -1,0 +1,1 @@
+This is a first attempt project where I am trying to learn the basics of html5, css and javascript. The intention is to make a small gallery with some animations.
